@@ -1,0 +1,18 @@
+{
+    "name": "woocommerce-hints-for-brackets",
+    "title": "WooCommerce Hints for Brackets",
+    "description": "WooCommerce Hints for Brackets - plugin for Brackets, which will help you in writing WooCommerce themes/plugins with WordPress",
+    "homepage": "https://github.com/monirulalom/woocommerce-hints-for-brackets/",
+    "version": "1.0.0",
+    "author": "Md Monirul Alom <monirulalom@gmail.com>",
+    "license": "MIT",
+    "keywords": [
+        "wordpress",
+        "php",
+		"woocommerce",
+        "hint"
+    ],
+    "engines": {
+        "brackets": ">=0.41.0"
+    }
+}
