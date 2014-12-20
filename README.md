@@ -1,4 +1,4 @@
-Woocommerce Hints for Brackets
+WooCommerce Hints for Brackets
 ==============================
 
 This extension adds auto-completion capability for WooCommerce 2.2+ functions.
