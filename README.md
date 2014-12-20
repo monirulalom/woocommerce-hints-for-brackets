@@ -3,19 +3,24 @@ Woocommerce Hints for Brackets
 
 This extension adds auto-completion capability for WooCommerce 2.2+ functions.
 
-***Features of this extension***
+***Features of this extension:***
+
+
 ✅ 1100+ functions , actions and filter auto-suggest/auto-completion support.
 
 
-***Installation***
+***Installation:***
+
+
 You can install this extension with Extension manager. Search for it and click install.
 
-*** How to contribute ? ***
+***How to contribute?*** 
+
 
 If you have any suggestion or you want to help, just fork this repository, make your changes and send a pull request.
 If you can't code, simply open a [new issue](https://github.com/monirulalom/woocommerce-hints-for-brackets/issues) and we'll do our best to help you!
 
 
-*** Change log ***
+***Change log***
 
-2014-12-21 -- Initial commit
+* 2014-12-21 -- Initial commit
